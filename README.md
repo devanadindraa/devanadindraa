@@ -163,3 +163,7 @@
 </picture>
 
 ###
+
+<img src="https://raw.githubusercontent.com/devanadindraa/devanadindraa/output/snake.svg" alt="Snake animation" />
+
+###

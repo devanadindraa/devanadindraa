@@ -6,7 +6,16 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working on **Fullstack Web Projects**<br><br>- 🌱 I’m currently learning **Web Performance Optimization, API Design, and Cloud Deployment**<br><br>- 👨‍💻 All of my projects are available at [https://devanadindra.com](https://devanadindra.com)<br><br>- 💬 Ask me about **Frontend Development, REST API, or Database Design**<br><br>- 📫 How to reach me **devanadindra.p@gmail.com**<br><br>- ⚡ Fun fact **I write better code after my second cup of coffee**</p>
+<p align="left">
+  - 🔭 I’m currently working on <strong>Fullstack Web Projects</strong><br><br>
+  - 🌱 I’m currently learning <strong>Web Performance Optimization, API Design, and Cloud Deployment</strong><br><br>
+  - 👨‍💻 All of my projects are available at 
+  <a href="https://devanadindra.com" target="_blank">devanadindra.com</a><br><br>
+  - 💬 Ask me about <strong>Frontend Development, REST API, or Database Design</strong><br><br>
+  - 📫 How to reach me <strong>devanadindra.p@gmail.com</strong><br><br>
+  - ⚡ Fun fact <strong>I write better code after my second cup of coffee</strong>
+</p>
+
 
 ###
 

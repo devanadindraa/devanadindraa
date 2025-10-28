@@ -1,27 +1,18 @@
-## Hi there 👋
+## Hi 👋, I'm Deva Nadindra P
 
 I’m a Fullstack Web Developer who loves crafting clean, scalable, and user-friendly web applications. I combine strong frontend creativity with solid backend logic to bring ideas to life on the web.
 
-<!--
-**devanadindraa/devanadindraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **Fullstack Web Projects**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Web Performance Optimization, API Design, and Cloud Deployment**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 All of my projects are available at [https://devanadindra.com](https://devanadindra.com)
 
-- 🔭 Currently working on: Modern Fullstack Web Projects (React + Golang/Laravel)
-- 🌱 Learning more about: Web Performance Optimization, API Design, and Cloud Deployment
-- 💬 Ask me about: Frontend Development, REST API, or Database Design
-- ⚙️ My goal: To build impactful and efficient digital experiences
-- ☕ Fun fact: I write better code after my second cup of coffee
+- 💬 Ask me about **Frontend Development, REST API, or Database Design**
+
+- 📫 How to reach me **devanadindra.p@gmail.com**
+
+- ⚡ Fun fact **I write better code after my second cup of coffee**
 
 ##### 🛠️ Tech Stack
 ###### 🎨 Frontend
@@ -30,7 +21,7 @@ Here are some ideas to get you started:
 ###### ⚙️ Backend
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" /> <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 
-###### 🗄️ 🚀 Frameworks & Library
+###### 🚀 Frameworks & Library
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" /> <img src="https://img.shields.io/badge/ngrok-140648?style=for-the-badge&logo=Ngrok&logoColor=white" /> <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" /> <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" /> <img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" /> <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
 <!-- ##### Connect with me
@@ -39,4 +30,9 @@ Here are some ideas to get you started:
 ##### My Github Stats
 
 ![Deva`s GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=devanadindraa&show_icons=true&theme=dark#gh-dark-mode-only)
-<!-- [![Deva`s GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=devanadindraa&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/devanadindraa/github-readme-stats#gh-light-mode-only) -->
+
+![Deva`s GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs?username=devanadindraa&show_icons=true&locale=en&layout=compact&theme=dark#gh-dark-mode-only)
+
+##### Github Trophies
+
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devanadindraa" alt="devanadindraa" /></a>

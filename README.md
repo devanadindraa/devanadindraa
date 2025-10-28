@@ -32,3 +32,11 @@ Here are some ideas to get you started:
 
 ###### 🗄️ 🚀 Frameworks & Library
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" /> <img src="https://img.shields.io/badge/ngrok-140648?style=for-the-badge&logo=Ngrok&logoColor=white" /> <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" /> <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" /> <img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" /> <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
+<!-- ##### Connect with me
+![https://www.linkedin.com/in/deva-nadindra-pramudya-2a6b202b8/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) -->
+
+##### My Github Stats
+
+![Deva`s GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=devanadindraa&show_icons=true&theme=dark#gh-dark-mode-only)
+<!-- [![Deva`s GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=devanadindraa&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/devanadindraa/github-readme-stats#gh-light-mode-only) -->

@@ -1,5 +1,7 @@
 ## Hi there 👋
+
 I’m a Fullstack Web Developer who loves crafting clean, scalable, and user-friendly web applications. I combine strong frontend creativity with solid backend logic to bring ideas to life on the web.
+
 <!--
 **devanadindraa/devanadindraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,3 +22,20 @@ Here are some ideas to get you started:
 - 💬 Ask me about: Frontend Development, REST API, or Database Design
 - ⚙️ My goal: To build impactful and efficient digital experiences
 - ☕ Fun fact: I write better code after my second cup of coffee
+
+##### 🛠️ Tech Stack
+###### 🎨 Frontend
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+
+###### ⚙️ Backend
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
+<img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+
+

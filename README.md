@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I’m a Fullstack Web Developer who loves crafting clean, scalable, and user-friendly web applications. I combine strong frontend creativity with solid backend logic to bring ideas to life on the web.
 <!--
 **devanadindraa/devanadindraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 Currently working on: Modern Fullstack Web Projects (React + Golang/Laravel)
+- 🌱 Learning more about: Web Performance Optimization, API Design, and Cloud Deployment
+- 💬 Ask me about: Frontend Development, REST API, or Database Design
+- ⚙️ My goal: To build impactful and efficient digital experiences
+- ☕ Fun fact: I write better code after my second cup of coffee
